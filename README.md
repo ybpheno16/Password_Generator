@@ -8,3 +8,4 @@ A simple and secure password generator built with HTML, CSS, and JavaScript. Thi
   3.User-Friendly: Intuitive and easy-to-use interface, making it accessible for users of all levels.      
    
  
+ 
