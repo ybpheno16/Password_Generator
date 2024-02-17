@@ -7,3 +7,4 @@ A simple and secure password generator built with HTML, CSS, and JavaScript. Thi
   2.Secure: Generates strong and unpredictable passwords to enhance your online security.</br>
   3.User-Friendly: Intuitive and easy-to-use interface, making it accessible for users of all levels.      
    
+ 
